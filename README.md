@@ -1,1 +1,1 @@
-# Information-Security-NAVTTC-B-2026
+# Artificial_Intelligence-NAVTTC-B-2026
